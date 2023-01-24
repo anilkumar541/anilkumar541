@@ -38,7 +38,5 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anil-kumar-904280170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anil%Kumar%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anil-kumar-904280170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anil%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
 
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
