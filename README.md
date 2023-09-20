@@ -4,15 +4,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning reactJS.
+- 🤔 &nbsp; I am a Full stack developer .
+- 🌱 &nbsp; What tech stack i use => Python, Django, Javascript, ReactJS, PostgreSQL, Bootstrap, HTML, CSS, Tailwind.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=007396)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go%2B%2B&logoColor=00599C)
+  
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
