@@ -1,5 +1,6 @@
 
-<h2> Hey there! I'm Anil Kumar.</h2>
+# Hi, I'm Anil Kumar! 👋
+I'm a software engineer specializing in **Django** and **React**, with a passion for building web applications. I'm currently working on my own side project and improving my skills in Django and React.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -33,5 +34,6 @@
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/anil-kumar-904280170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anil%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/anil-kumar-904280170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anil%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
 
