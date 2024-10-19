@@ -4,8 +4,10 @@ I'm a software engineer specializing in **Django** and **React**, with a passion
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a Full stack developer .
-- 🌱 &nbsp; What tech stack i use => Python, Django, Javascript, ReactJS, PostgreSQL, Bootstrap, HTML, CSS, Tailwind.
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript
+- **Frameworks and Library**: Django, React
+- **Version Control**: Git, GitHub
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
