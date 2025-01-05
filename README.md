@@ -1,6 +1,6 @@
 
 # Hi, I'm Anil Kumar! 👋
-I'm a software engineer specializing in **Django** and **React**, with a passion for building web applications. I'm currently working on my own side project and improving my skills in Django and React.
+I'm a software engineer specialized in **Django** and **React**, with a passion for building web applications. I'm currently working on my own side project and improving my skills in Django and React.
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript
