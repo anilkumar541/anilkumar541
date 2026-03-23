@@ -8,7 +8,7 @@
 
 - 🔭 Currently building **[Cinemx](https://github.com/anilkumar541/Cinemx_Frontend)** — a full-stack movie discovery app
 - - 🌱 Deepening my skills in **Django REST Framework** and **React**
-  - - 💬 Ask me about **Python, Django, JavaScript, React**
+  - - 💬 Ask me about **Python, Django, JavaScript, React, FastAPI**
     - - 📍 Based in **Mumbai, India**
       - - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/anil-kumar-904280170/)** or check out my **[Portfolio](https://anilkumar-portfolio-01.netlify.app/)**
        
@@ -20,6 +20,7 @@
         ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
         ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
         ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+        ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
         ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
         ![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=fastapi&logoColor=white)
